@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conorwes
 - 👀 I’m interested in space domain analysis
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning Svelte, and seeking mastery of C++ and C#
 
 <!---
 conorwes/conorwes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
