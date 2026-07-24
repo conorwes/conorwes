@@ -18,9 +18,9 @@ Software engineer based in Buffalo, NY, bridging space-domain engineering and mo
 * Dual degree from University at Buffalo: B.S. in Aerospace Engineering & B.A. in German Language.
 * Built an IPG CarMaker racing simulator in Germany to train drivers for a student Formula E team!
 * My preferred Mai Tai spec is:
-- 1 oz Appleton Estate 12 year
-- 1 oz Clairin Vaval
-- 0.5 oz Pierre Ferrand Dry Curacao
-- 0.5 oz Orgeat
-- 1 oz Lime Juice
-- 0.25 oz 2:1 Demerara Syrup
+  * 1 oz Appleton Estate 12 year
+  * 1 oz Clairin Vaval
+  * 0.5 oz Pierre Ferrand Dry Curacao
+  * 0.5 oz Orgeat
+  * 1 oz Lime Juice
+  * 0.25 oz 2:1 Demerara Syrup
