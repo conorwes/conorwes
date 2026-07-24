@@ -1,6 +1,6 @@
-# Hi, I'm Conor 👋
+# Aloha, I'm Conor 👋
 
-Software engineer based in Buffalo, NY, bridging space-domain engineering and modern software development.
+I'm a software engineer based in Buffalo, NY, bridging space-domain engineering and modern software development.
 
 ## 🚀 What I'm Working On
 * 🛰️ **Software Engineer at a.i. solutions:** Building core capabilities for FreeFlyer, an astrodynamics simulation platform supporting missions like NASA's Artemis program.
