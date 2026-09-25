@@ -3,8 +3,8 @@
 I'm a software engineer based in Buffalo, NY, bridging space-domain engineering and modern software development.
 
 ## 🚀 What I'm Working On
-* 🛰️ **Software Engineer at a.i. solutions:** Building core capabilities for FreeFlyer, an astrodynamics simulation platform supporting missions like NASA's Artemis program.
-* 📐 **Astrodynamics & Systems:** Architecting features like dynamic solar radiation pressure modeling, rotating-pulsating systems, diagnostic interfaces, and app reliability systems.
+* 🛰️ **Software Engineer at Turion Space:** Doing my own small part to help unlock humanity's galactic potential.
+* 📐 **Astrodynamics & Systems:** Contributing to TMPL, Turion's mission planning library.
 * 🤖 **AI-Assisted Workflows:** Integrating agentic LLM tooling into daily engineering tasks to streamline code generation, refactoring, and turnaround time.
 * 🎮 **Waste of Space Entertainment:** Founder and lead dev for a fledgling international team building standalone games in Unreal Engine.
 
